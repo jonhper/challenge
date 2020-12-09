@@ -13,15 +13,15 @@ You are on an Operating System and several paths of the filesystem are reference
 The registry is an array of objects, each one representing a path.
 A path is formed of:
 
-    * path: A string representing the location within its parent
-    * parent: The parent location
-    * level: The level needed to access this path
+* path: A string representing the location within its parent
+* parent: The parent location
+* level: The level needed to access this path
 
 The users of this operating system are referenced in a users array of objects.
 Each object representing a user is formed of:
 
-    * name: A string representing the user name
-    * level: A number representing the user access level
+* name: A string representing the user name
+* level: A number representing the user access level
 
 ## Rules
 
