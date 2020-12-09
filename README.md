@@ -51,7 +51,7 @@ You can and SHOULD reuse your previous task(s) to complete the next one(s), thin
 
 **Clone repository**
     
-    git clone https://github.com/jonhper/vending_machine.git
+    git clone https://github.com/jonhper/challenge.git
 
 **Switch to the repo folder**
 
