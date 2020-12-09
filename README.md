@@ -25,9 +25,9 @@ Each object representing a user is formed of:
 
 ## Rules
 
-*All the work you provide must be within index.js.
-*The three functions you will have to implement are exported members of index.js.
-*You can and SHOULD reuse your previous task(s) to complete the next one(s), think about this exercise as a whole and not just independent questions.
+* All the work you provide must be within index.js.
+* The three functions you will have to implement are exported members of index.js.
+* You can and SHOULD reuse your previous task(s) to complete the next one(s), think about this exercise as a whole and not just independent questions.
 
 ## Tasks
 
