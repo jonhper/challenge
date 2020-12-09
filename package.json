@@ -1,0 +1,13 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": " Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jonathan Sambrano",
+  "devDependencies": {
+    "jest": "^25.2.2"
+  }
+}
