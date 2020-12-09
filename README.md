@@ -5,6 +5,7 @@ Developed with Node.js
 ## Prerequisites
 
     * Node.js
+    * Git
 
 ## Context
 
@@ -48,6 +49,15 @@ You can and SHOULD reuse your previous task(s) to complete the next one(s), thin
 
 ## Installation
 
-Run 
+**Clone repository**
+    
+    git clone https://github.com/jonhper/vending_machine.git
+
+**Switch to the repo folder**
+
+    cd challenge
+
+**Run**
+
     npm install
     npm test
